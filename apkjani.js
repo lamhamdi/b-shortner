@@ -16,8 +16,8 @@
                     url: window.location.href
                 },
                 facebook: {
-                    appId: 644794712339766,
-                    pageId: 'https://www.facebook.com/vorecorp.id',
+                    appId: 104365329655649,
+                    pageId: 'https://www.facebook.com/andrjani',
                     url: window.location.href
                 },
                 twitter: {
