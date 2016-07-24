@@ -21,12 +21,12 @@
                     url: window.location.href
                 },
                 twitter: {
-                    via: 'devoresyah',
+                    via: 'a9wanett',
                     url: window.location.href,
                     text: document.title
                 },
                 googleplus: {
-                    apikey: 'AIzaSyD_H_TgxVsG0jMy6dMTKjkhHilxIk_bQBk',
+                    apikey: 'AIzaSyBwLTIBvcbkv0kGxtNwhKnUGCNh4tMARsk',
                     url: window.location.href
                 },
                 count: {
