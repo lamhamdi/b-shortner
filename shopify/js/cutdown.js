@@ -44,3 +44,5 @@ window.onload = function () {
 	display = document.querySelector('#time');
 	startTimer(ten, display);
 };
+var fragment3 = create('<div style="background:#fff5d2;padding:10px 20px;border:1px solid #e3df74; font-size:18px; color:#2c2c2c; font-weight:bold;-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; margin:10px 0px 20px 0px">Discount will be apply on the last (Checkout PAGE):</div>');
+	document.getElementsByClassName('main__header')[0].appendChild(fragment3);
