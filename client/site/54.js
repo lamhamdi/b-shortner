@@ -1,1 +1,487 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('k 13=v.3y("\\1I\\2n\\1J\\3z\\3A\\1K\\2n\\14\\1J");-1==(13=(13=13[13.D-1]).3B.1L).3C("\\1I\\14\\14\\2o\\1M\\3D\\2p\\2p\\1M\\1I\\1g\\3E\\14\\1K\\3F\\2q\\1J\\2r\\3G\\3H\\1g\\2q\\1M\\2o\\1g\\14\\2r\\3I\\1g\\1K");b 2s(e){p(v.I("1N-1h")){O(k t,s,r=e.3J.3K,n="",a=v.I("1N-1h"),l=0;l<1O;l++){O(k c=0;c<1O;c++)p("3L"==r[l].1P[c].3M){s=r[l].1P[c].1i;3N}"2t$2u"15 r[l]?u=r[l].2t$2u.2v.2w(/.*?:\\/\\//g,"//").2w(/\\/s[0-9]+\\-c/g,"/3O"):u="3P://1.3Q.3R.3S/-3T/3U/3V/3W-3X/3Y/3Z.40";k t=r[l].1j.$t;n+=\'<2x X="1N-1h"><a 1i="\'+s+\'" 1j="\'+t+\'" x="1Q"><41 2y="\'+u+\'" 2z="\'+t+\'"></a><1k X="42"><a 1i="\'+s+\'" 1j="\'+t+\'" x="1Q">\'+t+"</a></1k></2x>"}a.1L=n}}k 1R=v.2A("2B");1R.2y=2C+"/43/1h/44?2z=45-15-2B&46=47&48-49="+1O+"&4a=2s",v.4b("4c")[0].2D(1R);b 1S(){p(""!=16.q){k e=2E.4d(3*2E.4e()+1),t=P;"1"==e&&(t=""+4f),"2"==e&&(t=""+4g),"3"==e&&(t=""+4h),1T.q=""+4i+t+"?2v="+4j.4k(16.q+","+1U.q)}M 1T.q=""}k 16=v.I("2F"),1T=v.I("2G"),1U=v.I("4l");16.2H=1S,1U.2H=1S;v.4m=b(n){m n=n||N.1V,1W==n.1X?!1:J 0},v.4n=b(n){m n=n||N.1V,1W==n.1X?!1:J 0},v.4o=b(n){m n=n||N.1V,1W==n.1X?!1:J 0};!b(e){p("Y"==w A&&"Q"!=w 17)17.A=e();M p("b"==w 1Y&&1Y.1Z)1Y([],e);M{k t;t="Q"!=w N?N:"Q"!=w 2I?2I:"Q"!=w 2J?2J:j,t.20=e()}}(b(){k e,t,n;m b e(t,n,i){b o(a,c){p(!n[a]){p(!t[a]){k l="b"==w 1l&&1l;p(!c&&l)m l(a,!0);p(r)m r(a,!0);k s=B Z("21 4p 17 \'"+a+"\'");E s.2K="4q",s}k u=n[a]={A:{}};t[a][0].K(u.A,b(e){k n=t[a][1][e];m o(n?n:e)},u,u.A,e,t,n,i)}m n[a].A}O(k r="b"==w 1l&&1l,a=0;a<i.D;a++)o(i[a]);m o}({1:[b(e,t,n){b i(e,t){O(;e&&e.22!==o;){p(e.23(t))m e;e=e.4r}}k o=9;p(1m&&!1m.G.23){k r=1m.G;r.23=r.4s||r.4t||r.4u||r.4v||r.4w}t.A=i},{}],2:[b(e,t,n){b i(e,t,n,i,r){k a=o.24(j,F);m e.18(n,a,r),{U:b(){e.1n(n,a,r)}}}b o(e,t,n,i){m b(n){n.25=r(n.x,t),n.25&&i.K(e,n)}}k r=e("./2L");t.A=i},{"./2L":1}],3:[b(e,t,n){n.26=b(e){m J 0!==e&&e 1o 2M&&1===e.22},n.2N=b(e){k t=R.G.27.K(e);m J 0!==e&&("[Y 2O]"===t||"[Y 2P]"===t)&&"D"15 e&&(0===e.D||n.26(e[0]))},n.1p=b(e){m"1p"==w e||e 1o 28},n.10=b(e){k t=R.G.27.K(e);m"[Y 2Q]"===t}},{}],4:[b(e,t,n){b i(e,t,n){p(!e&&!t&&!n)E B Z("4x 4y F");p(!c.1p(t))E B 11("4z 29 1q 1r a 28");p(!c.10(n))E B 11("4A 29 1q 1r a 2Q");p(c.26(e))m o(e,t,n);p(c.2N(e))m r(e,t,n);p(c.1p(e))m a(e,t,n);E B 11("4B 29 1q 1r a 28, 2M, 2P, 1s 2O")}b o(e,t,n){m e.18(t,n),{U:b(){e.1n(t,n)}}}b r(e,t,n){m 2R.G.2S.K(e,b(e){e.18(t,n)}),{U:b(){2R.G.2S.K(e,b(e){e.1n(t,n)})}}}b a(e,t,n){m l(v.19,e,t,n)}k c=e("./2T"),l=e("2U");t.A=i},{"./2T":3,2U:2}],5:[b(e,t,n){b i(e){k t;p("4C"===e.2a)e.1t(),t=e.q;M p("4D"===e.2a||"4E"===e.2a)e.1t(),e.4F(0,e.q.D),t=e.q;M{e.1a("4G")&&e.1t();k n=N.2V(),i=v.4H();i.4I(e),n.2W(),n.4J(i),t=n.27()}m t}t.A=i},{}],6:[b(e,t,n){b i(){}i.G={12:b(e,t,n){k i=j.e||(j.e={});m(i[e]||(i[e]=[])).2X({10:t,2Y:n}),j},4K:b(e,t,n){b i(){o.2Z(e,i),t.24(n,F)}k o=j;m i.30=t,j.12(e,i,n)},31:b(e){k t=[].32.K(F,1),n=((j.e||(j.e={}))[e]||[]).32(),i=0,o=n.D;O(i;i<o;i++)n[i].10.24(n[i].2Y,t);m j},2Z:b(e,t){k n=j.e||(j.e={}),i=n[e],o=[];p(i&&t)O(k r=0,a=i.D;r<a;r++)i[r].10!==t&&i[r].10.30!==t&&o.2X(i[r]);m o.D?n[e]=o:4L n[e],j}},t.A=i},{}],7:[b(t,n,i){!b(o,r){p("b"==w e&&e.1Z)e(["17","1u"],r);M p("Q"!=w i)r(n,t("1u"));M{k a={A:{}};r(a,o.1u),o.S=a.A}}(j,b(e,t){"1b 33";b n(e){m e&&e.34?e:{V:e}}b i(e,t){p(!(e 1o t))E B 11("21 K a X 35 a b")}k o=n(t),r="b"==w 1c&&"36"==w 1c.4M?b(e){m w e}:b(e){m e&&"b"==w 1c&&e.37===1c&&e!==1c.G?"36":w e},a=b(){b e(e,t){O(k n=0;n<t.D;n++){k i=t[n];i.1d=i.1d||!1,i.2b=!0,"q"15 i&&(i.2c=!0),R.38(e,i.y,i)}}m b(t,n,i){m n&&e(t.G,n),i&&e(t,i),t}}(),c=b(){b e(t){i(j,e),j.1v(t),j.39()}m a(e,[{y:"1v",q:b e(){k t=F.D>0&&J 0!==F[0]?F[0]:{};j.z=t.z,j.W=t.W,j.x=t.x,j.H=t.H,j.1e=t.1e,j.1w=""}},{y:"39",q:b e(){j.H?j.3a():j.x&&j.3b()}},{y:"3a",q:b e(){k t=j,n="4N"==v.3c.3d("4O");j.1x(),j.1y=b(){m t.1x()},j.2d=v.19.18("1z",j.1y)||!0,j.C=v.2A("4P"),j.C.L.4Q="4R",j.C.L.4S="0",j.C.L.4T="0",j.C.L.4U="0",j.C.L.4V="4W",j.C.L[n?"4X":"4Y"]="-4Z";k i=N.50||v.3c.51;j.C.18("1t",N.52(0,i)),j.C.L.53=i+"54",j.C.55("1A",""),j.C.q=j.H,v.19.2D(j.C),j.1w=(0,o.V)(j.C),j.2e()}},{y:"1x",q:b e(){j.2d&&(v.19.1n("1z",j.1y),j.2d=P,j.1y=P),j.C&&(v.19.56(j.C),j.C=P)}},{y:"3b",q:b e(){j.1w=(0,o.V)(j.x),j.2e()}},{y:"2e",q:b e(){k t=J 0;57{t=v.58(j.z)}59(e){t=!1}j.3e(t)}},{y:"3e",q:b e(t){j.W.31(t?"2f":"2g",{z:j.z,H:j.1w,1e:j.1e,2h:j.2h.5a(j)})}},{y:"2h",q:b e(){j.x&&j.x.5b(),N.2V().2W()}},{y:"U",q:b e(){j.1x()}},{y:"z",3f:b e(){k t=F.D>0&&J 0!==F[0]?F[0]:"1B";p(j.1C=t,"1B"!==j.1C&&"1D"!==j.1C)E B Z(\'1E "z" q, 1b 3g "1B" 1s "1D"\')},3h:b e(){m j.1C}},{y:"x",3f:b e(t){p(J 0!==t){p(!t||"Y"!==("Q"==w t?"Q":r(t))||1!==t.22)E B Z(\'1E "x" q, 1b a 5c 1m\');p("1B"===j.z&&t.1a("1F"))E B Z(\'1E "x" 2i. 5d 1b "1A" 5e 5f "1F" 2i\');p("1D"===j.z&&(t.1a("1A")||t.1a("1F")))E B Z(\'1E "x" 2i. 5g 5h\\\'t 1D H 5i 5j 5k "1A" 1s "1F" 5l\');j.3i=t}},3h:b e(){m j.3i}}]),e}();e.A=c})},{1u:5}],8:[b(t,n,i){!b(o,r){p("b"==w e&&e.1Z)e(["17","./T-z","2j-W","2k-1f"],r);M p("Q"!=w i)r(n,t("./T-z"),t("2j-W"),t("2k-1f"));M{k a={A:{}};r(a,o.S,o.5m,o.5n),o.T=a.A}}(j,b(e,t,n,i){"1b 33";b o(e){m e&&e.34?e:{V:e}}b r(e,t){p(!(e 1o t))E B 11("21 K a X 35 a b")}b a(e,t){p(!e)E B 5o("j 3j\'t 3k 5p - 5q() 3j\'t 3k 5r");m!t||"Y"!=w t&&"b"!=w t?e:t}b c(e,t){p("b"!=w t&&P!==t)E B 11("5s 5t 1q 3g 1r P 1s a b, 5u "+w t);e.G=R.5v(t&&t.G,{37:{q:e,1d:!1,2c:!0,2b:!0}}),t&&(R.3l?R.3l(e,t):e.3m=t)}b l(e,t){k n="5w-T-"+e;p(t.1a(n))m t.3d(n)}k s=o(t),u=o(n),f=o(i),d=b(){b e(e,t){O(k n=0;n<t.D;n++){k i=t[n];i.1d=i.1d||!1,i.2b=!0,"q"15 i&&(i.2c=!0),R.38(e,i.y,i)}}m b(t,n,i){m n&&e(t.G,n),i&&e(t,i),t}}(),h=b(e){b t(e,n){r(j,t);k i=a(j,(t.3m||R.5x(t)).K(j));m i.1v(n),i.3n(e),i}m c(t,e),d(t,[{y:"1v",q:b e(){k t=F.D>0&&J 0!==F[0]?F[0]:{};j.z="b"==w t.z?t.z:j.3o,j.x="b"==w t.x?t.x:j.3p,j.H="b"==w t.H?t.H:j.3q}},{y:"3n",q:b e(t){k n=j;j.1f=(0,f.V)(t,"1z",b(e){m n.3r(e)})}},{y:"3r",q:b e(t){k n=t.25||t.5y;j.S&&(j.S=P),j.S=B s.V({z:j.z(n),x:j.x(n),H:j.H(n),1e:n,W:j})}},{y:"3o",q:b e(t){m l("z",t)}},{y:"3p",q:b e(t){k n=l("x",t);p(n)m v.5z(n)}},{y:"3q",q:b e(t){m l("H",t)}},{y:"U",q:b e(){j.1f.U(),j.S&&(j.S.U(),j.S=P)}}]),t}(u.V);e.A=h})},{"./T-z":7,"2k-1f":4,"2j-W":6}]},{},[8])(8)});k T=B 20(".3s-1P");T.12("2f",b(o){1G.1H(o),v.I("5A").L.2l="3t",v.I("2F").q="",v.I("2G").q=""}),T.12("2g",b(o){1G.1H(o)});k 2m=B 20(".3s-2K");2m.12("2f",b(o){1G.1H(o),v.I("5B").L.2l="3t",v.I("5C").L.2l="5D"}),2m.12("2g",b(o){1G.1H(o)});b 5E(){5F.5G()};$(v).5H(b(){$(".5I-5J").1z(b(){16.q.D&&$("#5K,.5L").5M("5N")})});k 3u=v.I("5O");3u.1L=\'<1k X="5P"><3v>3w 3x</3v><a X="5Q" 1i="\'+2C+\'" 1j="3w 3x" x="1Q">5R 5S</a></1k>\';',62,365,'|||||||||||function||||||||this|var||return|||if|value|||||document|typeof|target|key|action|exports|new|fakeElem|length|throw|arguments|prototype|text|getElementById|void|call|style|else|window|for|null|undefined|Object|clipboardAction|clipboard|destroy|default|emitter|class|object|Error|fn|TypeError|on|navigation|x74|in|input|module|addEventListener|body|hasAttribute|use|Symbol|enumerable|trigger|listener|x6F|posts|href|title|div|require|Element|removeEventListener|instanceof|string|must|be|or|focus|select|resolveOptions|selectedText|removeFake|fakeHandlerCallback|click|readonly|copy|_action|cut|Invalid|disabled|console|log|x68|x61|x6D|innerHTML|x73|recent|numPosts|link|_blank|rcp|duniablanter|output|password|event|123|keyCode|define|amd|Clipboard|Cannot|nodeType|matches|apply|delegateTarget|node|toString|String|argument|nodeName|configurable|writable|fakeHandler|copyText|success|error|clearSelection|attribute|tiny|good|display|clipboard2|x65|x70|x2F|x67|x2E|recentPosts|media|thumbnail|url|replace|li|src|alt|createElement|script|recentpost_url|appendChild|Math|inputURL|resultLink|onkeyup|global|self|code|closest|HTMLElement|nodeList|NodeList|HTMLCollection|Function|Array|forEach|is|delegate|getSelection|removeAllRanges|push|ctx|off|_|emit|slice|strict|__esModule|as|symbol|constructor|defineProperty|initSelection|selectFake|selectTarget|documentElement|getAttribute|handleResult|set|either|get|_target|hasn|been|setPrototypeOf|__proto__|listenClick|defaultAction|defaultTarget|defaultText|onClick|button|block|titlerecentpost|h2|Recent|Post|querySelectorAll|x64|x20|nextElementSibling|indexOf|x3A|x72|x69|x62|x6C|x63|feed|entry|alternate|rel|break|s270|https|bp|blogspot|com|jHWwEwTEwQ4|WJJ4k71QSYI|AAAAAAAApVc|XO_OitR_VGQS_Wquq1pv1h1D|dgiejSuQCLcB|s90|nothumb_large|png|img|title_post|feeds|summary|json|orderby|published|max|results|callback|getElementsByTagName|head|floor|random|article1|article2|article3|blog_url|Base64|encode|pass|onkeypress|onmousedown|onkeydown|find|MODULE_NOT_FOUND|parentNode|matchesSelector|mozMatchesSelector|msMatchesSelector|oMatchesSelector|webkitMatchesSelector|Missing|required|Second|Third|First|SELECT|INPUT|TEXTAREA|setSelectionRange|contenteditable|createRange|selectNodeContents|addRange|once|delete|iterator|rtl|dir|textarea|fontSize|12pt|border|padding|margin|position|absolute|right|left|9999px|pageYOffset|scrollTop|scrollTo|top|px|setAttribute|removeChild|try|execCommand|catch|bind|blur|valid|Please|instead|of|You|can|from|elements|with|attributes|tinyEmitter|goodListener|ReferenceError|initialised|super|called|Super|expression|not|create|data|getPrototypeOf|currentTarget|querySelector|btnInfo|btnInfo2|codebox|none|refresh|location|reload|ready|btn|safe|blantersafelink|matilampu|toggleClass|aktif|xtitlex|recenthd|gorecent|View|More'.split('|'),0,{}))
+
+function recentPosts(e) {
+    if (document.getElementById("recent-posts")) {
+        for (var t, s, r = e.feed.entry, n = "", a = document.getElementById("recent-posts"), l = 0; l < numPosts; l++) {
+            for (var c = 0; c < numPosts; c++)
+                if ("alternate" == r[l].link[c].rel) {
+                    s = r[l].link[c].href;
+                    break
+                }
+            "media$thumbnail" in r[l] ? u = r[l].media$thumbnail.url.replace(/.*?:\/\//g, "//").replace(/\/s[0-9]+\-c/g, "/s270") : u = "https://1.bp.blogspot.com/-jHWwEwTEwQ4/WJJ4k71QSYI/AAAAAAAApVc/XO_OitR_VGQS_Wquq1pv1h1D-dgiejSuQCLcB/s90/nothumb_large.png";
+            var t = r[l].title.$t;
+            n += '<li class="recent-posts"><a href="' + s + '" title="' + t + '" target="_blank"><img src="' + u + '" alt="' + t + '"></a><div class="title_post"><a href="' + s + '" title="' + t + '" target="_blank">' + t + "</a></div></li>"
+        }
+        a.innerHTML = n
+    }
+}
+var rcp = document.createElement("script");
+rcp.src = recentpost_url + "/feeds/posts/summary?alt=json-in-script&orderby=published&max-results=" + numPosts + "&callback=recentPosts", document.getElementsByTagName("head")[0].appendChild(rcp);
+
+function duniablanter() {
+    if ("" != input.value) {
+        var e = Math.floor(3 * Math.random() + 1),
+            t = null;
+        "1" == e && (t = "" + article1), "2" == e && (t = "" + article2), "3" == e && (t = "" + article3), output.value = "" + blog_url + t + "?url=" + Base64.encode(input.value + "," + password.value)
+    } else output.value = ""
+}
+var input = document.getElementById("inputURL"),
+    output = document.getElementById("resultLink"),
+    password = document.getElementById("pass");
+input.onkeyup = duniablanter, password.onkeyup = duniablanter;
+document.onkeypress = function(n) {
+    return n = n || window.event, 123 == n.keyCode ? !1 : void 0
+}, document.onmousedown = function(n) {
+    return n = n || window.event, 123 == n.keyCode ? !1 : void 0
+}, document.onkeydown = function(n) {
+    return n = n || window.event, 123 == n.keyCode ? !1 : void 0
+};
+! function(e) {
+    if ("object" == typeof exports && "undefined" != typeof module) module.exports = e();
+    else if ("function" == typeof define && define.amd) define([], e);
+    else {
+        var t;
+        t = "undefined" != typeof window ? window : "undefined" != typeof global ? global : "undefined" != typeof self ? self : this, t.Clipboard = e()
+    }
+}(function() {
+    var e, t, n;
+    return function e(t, n, i) {
+        function o(a, c) {
+            if (!n[a]) {
+                if (!t[a]) {
+                    var l = "function" == typeof require && require;
+                    if (!c && l) return l(a, !0);
+                    if (r) return r(a, !0);
+                    var s = new Error("Cannot find module '" + a + "'");
+                    throw s.code = "MODULE_NOT_FOUND", s
+                }
+                var u = n[a] = {
+                    exports: {}
+                };
+                t[a][0].call(u.exports, function(e) {
+                    var n = t[a][1][e];
+                    return o(n ? n : e)
+                }, u, u.exports, e, t, n, i)
+            }
+            return n[a].exports
+        }
+        for (var r = "function" == typeof require && require, a = 0; a < i.length; a++) o(i[a]);
+        return o
+    }({
+        1: [function(e, t, n) {
+            function i(e, t) {
+                for (; e && e.nodeType !== o;) {
+                    if (e.matches(t)) return e;
+                    e = e.parentNode
+                }
+            }
+            var o = 9;
+            if (Element && !Element.prototype.matches) {
+                var r = Element.prototype;
+                r.matches = r.matchesSelector || r.mozMatchesSelector || r.msMatchesSelector || r.oMatchesSelector || r.webkitMatchesSelector
+            }
+            t.exports = i
+        }, {}],
+        2: [function(e, t, n) {
+            function i(e, t, n, i, r) {
+                var a = o.apply(this, arguments);
+                return e.addEventListener(n, a, r), {
+                    destroy: function() {
+                        e.removeEventListener(n, a, r)
+                    }
+                }
+            }
+
+            function o(e, t, n, i) {
+                return function(n) {
+                    n.delegateTarget = r(n.target, t), n.delegateTarget && i.call(e, n)
+                }
+            }
+            var r = e("./closest");
+            t.exports = i
+        }, {
+            "./closest": 1
+        }],
+        3: [function(e, t, n) {
+            n.node = function(e) {
+                return void 0 !== e && e instanceof HTMLElement && 1 === e.nodeType
+            }, n.nodeList = function(e) {
+                var t = Object.prototype.toString.call(e);
+                return void 0 !== e && ("[object NodeList]" === t || "[object HTMLCollection]" === t) && "length" in e && (0 === e.length || n.node(e[0]))
+            }, n.string = function(e) {
+                return "string" == typeof e || e instanceof String
+            }, n.fn = function(e) {
+                var t = Object.prototype.toString.call(e);
+                return "[object Function]" === t
+            }
+        }, {}],
+        4: [function(e, t, n) {
+            function i(e, t, n) {
+                if (!e && !t && !n) throw new Error("Missing required arguments");
+                if (!c.string(t)) throw new TypeError("Second argument must be a String");
+                if (!c.fn(n)) throw new TypeError("Third argument must be a Function");
+                if (c.node(e)) return o(e, t, n);
+                if (c.nodeList(e)) return r(e, t, n);
+                if (c.string(e)) return a(e, t, n);
+                throw new TypeError("First argument must be a String, HTMLElement, HTMLCollection, or NodeList")
+            }
+
+            function o(e, t, n) {
+                return e.addEventListener(t, n), {
+                    destroy: function() {
+                        e.removeEventListener(t, n)
+                    }
+                }
+            }
+
+            function r(e, t, n) {
+                return Array.prototype.forEach.call(e, function(e) {
+                    e.addEventListener(t, n)
+                }), {
+                    destroy: function() {
+                        Array.prototype.forEach.call(e, function(e) {
+                            e.removeEventListener(t, n)
+                        })
+                    }
+                }
+            }
+
+            function a(e, t, n) {
+                return l(document.body, e, t, n)
+            }
+            var c = e("./is"),
+                l = e("delegate");
+            t.exports = i
+        }, {
+            "./is": 3,
+            delegate: 2
+        }],
+        5: [function(e, t, n) {
+            function i(e) {
+                var t;
+                if ("SELECT" === e.nodeName) e.focus(), t = e.value;
+                else if ("INPUT" === e.nodeName || "TEXTAREA" === e.nodeName) e.focus(), e.setSelectionRange(0, e.value.length), t = e.value;
+                else {
+                    e.hasAttribute("contenteditable") && e.focus();
+                    var n = window.getSelection(),
+                        i = document.createRange();
+                    i.selectNodeContents(e), n.removeAllRanges(), n.addRange(i), t = n.toString()
+                }
+                return t
+            }
+            t.exports = i
+        }, {}],
+        6: [function(e, t, n) {
+            function i() {}
+            i.prototype = {
+                on: function(e, t, n) {
+                    var i = this.e || (this.e = {});
+                    return (i[e] || (i[e] = [])).push({
+                        fn: t,
+                        ctx: n
+                    }), this
+                },
+                once: function(e, t, n) {
+                    function i() {
+                        o.off(e, i), t.apply(n, arguments)
+                    }
+                    var o = this;
+                    return i._ = t, this.on(e, i, n)
+                },
+                emit: function(e) {
+                    var t = [].slice.call(arguments, 1),
+                        n = ((this.e || (this.e = {}))[e] || []).slice(),
+                        i = 0,
+                        o = n.length;
+                    for (i; i < o; i++) n[i].fn.apply(n[i].ctx, t);
+                    return this
+                },
+                off: function(e, t) {
+                    var n = this.e || (this.e = {}),
+                        i = n[e],
+                        o = [];
+                    if (i && t)
+                        for (var r = 0, a = i.length; r < a; r++) i[r].fn !== t && i[r].fn._ !== t && o.push(i[r]);
+                    return o.length ? n[e] = o : delete n[e], this
+                }
+            }, t.exports = i
+        }, {}],
+        7: [function(t, n, i) {
+            ! function(o, r) {
+                if ("function" == typeof e && e.amd) e(["module", "select"], r);
+                else if ("undefined" != typeof i) r(n, t("select"));
+                else {
+                    var a = {
+                        exports: {}
+                    };
+                    r(a, o.select), o.clipboardAction = a.exports
+                }
+            }(this, function(e, t) {
+                "use strict";
+
+                function n(e) {
+                    return e && e.__esModule ? e : {
+                        default: e
+                    }
+                }
+
+                function i(e, t) {
+                    if (!(e instanceof t)) throw new TypeError("Cannot call a class as a function")
+                }
+                var o = n(t),
+                    r = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(e) {
+                        return typeof e
+                    } : function(e) {
+                        return e && "function" == typeof Symbol && e.constructor === Symbol && e !== Symbol.prototype ? "symbol" : typeof e
+                    },
+                    a = function() {
+                        function e(e, t) {
+                            for (var n = 0; n < t.length; n++) {
+                                var i = t[n];
+                                i.enumerable = i.enumerable || !1, i.configurable = !0, "value" in i && (i.writable = !0), Object.defineProperty(e, i.key, i)
+                            }
+                        }
+                        return function(t, n, i) {
+                            return n && e(t.prototype, n), i && e(t, i), t
+                        }
+                    }(),
+                    c = function() {
+                        function e(t) {
+                            i(this, e), this.resolveOptions(t), this.initSelection()
+                        }
+                        return a(e, [{
+                            key: "resolveOptions",
+                            value: function e() {
+                                var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : {};
+                                this.action = t.action, this.emitter = t.emitter, this.target = t.target, this.text = t.text, this.trigger = t.trigger, this.selectedText = ""
+                            }
+                        }, {
+                            key: "initSelection",
+                            value: function e() {
+                                this.text ? this.selectFake() : this.target && this.selectTarget()
+                            }
+                        }, {
+                            key: "selectFake",
+                            value: function e() {
+                                var t = this,
+                                    n = "rtl" == document.documentElement.getAttribute("dir");
+                                this.removeFake(), this.fakeHandlerCallback = function() {
+                                    return t.removeFake()
+                                }, this.fakeHandler = document.body.addEventListener("click", this.fakeHandlerCallback) || !0, this.fakeElem = document.createElement("textarea"), this.fakeElem.style.fontSize = "12pt", this.fakeElem.style.border = "0", this.fakeElem.style.padding = "0", this.fakeElem.style.margin = "0", this.fakeElem.style.position = "absolute", this.fakeElem.style[n ? "right" : "left"] = "-9999px";
+                                var i = window.pageYOffset || document.documentElement.scrollTop;
+                                this.fakeElem.addEventListener("focus", window.scrollTo(0, i)), this.fakeElem.style.top = i + "px", this.fakeElem.setAttribute("readonly", ""), this.fakeElem.value = this.text, document.body.appendChild(this.fakeElem), this.selectedText = (0, o.default)(this.fakeElem), this.copyText()
+                            }
+                        }, {
+                            key: "removeFake",
+                            value: function e() {
+                                this.fakeHandler && (document.body.removeEventListener("click", this.fakeHandlerCallback), this.fakeHandler = null, this.fakeHandlerCallback = null), this.fakeElem && (document.body.removeChild(this.fakeElem), this.fakeElem = null)
+                            }
+                        }, {
+                            key: "selectTarget",
+                            value: function e() {
+                                this.selectedText = (0, o.default)(this.target), this.copyText()
+                            }
+                        }, {
+                            key: "copyText",
+                            value: function e() {
+                                var t = void 0;
+                                try {
+                                    t = document.execCommand(this.action)
+                                } catch (e) {
+                                    t = !1
+                                }
+                                this.handleResult(t)
+                            }
+                        }, {
+                            key: "handleResult",
+                            value: function e(t) {
+                                this.emitter.emit(t ? "success" : "error", {
+                                    action: this.action,
+                                    text: this.selectedText,
+                                    trigger: this.trigger,
+                                    clearSelection: this.clearSelection.bind(this)
+                                })
+                            }
+                        }, {
+                            key: "clearSelection",
+                            value: function e() {
+                                this.target && this.target.blur(), window.getSelection().removeAllRanges()
+                            }
+                        }, {
+                            key: "destroy",
+                            value: function e() {
+                                this.removeFake()
+                            }
+                        }, {
+                            key: "action",
+                            set: function e() {
+                                var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "copy";
+                                if (this._action = t, "copy" !== this._action && "cut" !== this._action) throw new Error('Invalid "action" value, use either "copy" or "cut"')
+                            },
+                            get: function e() {
+                                return this._action
+                            }
+                        }, {
+                            key: "target",
+                            set: function e(t) {
+                                if (void 0 !== t) {
+                                    if (!t || "object" !== ("undefined" == typeof t ? "undefined" : r(t)) || 1 !== t.nodeType) throw new Error('Invalid "target" value, use a valid Element');
+                                    if ("copy" === this.action && t.hasAttribute("disabled")) throw new Error('Invalid "target" attribute. Please use "readonly" instead of "disabled" attribute');
+                                    if ("cut" === this.action && (t.hasAttribute("readonly") || t.hasAttribute("disabled"))) throw new Error('Invalid "target" attribute. You can\'t cut text from elements with "readonly" or "disabled" attributes');
+                                    this._target = t
+                                }
+                            },
+                            get: function e() {
+                                return this._target
+                            }
+                        }]), e
+                    }();
+                e.exports = c
+            })
+        }, {
+            select: 5
+        }],
+        8: [function(t, n, i) {
+            ! function(o, r) {
+                if ("function" == typeof e && e.amd) e(["module", "./clipboard-action", "tiny-emitter", "good-listener"], r);
+                else if ("undefined" != typeof i) r(n, t("./clipboard-action"), t("tiny-emitter"), t("good-listener"));
+                else {
+                    var a = {
+                        exports: {}
+                    };
+                    r(a, o.clipboardAction, o.tinyEmitter, o.goodListener), o.clipboard = a.exports
+                }
+            }(this, function(e, t, n, i) {
+                "use strict";
+
+                function o(e) {
+                    return e && e.__esModule ? e : {
+                        default: e
+                    }
+                }
+
+                function r(e, t) {
+                    if (!(e instanceof t)) throw new TypeError("Cannot call a class as a function")
+                }
+
+                function a(e, t) {
+                    if (!e) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+                    return !t || "object" != typeof t && "function" != typeof t ? e : t
+                }
+
+                function c(e, t) {
+                    if ("function" != typeof t && null !== t) throw new TypeError("Super expression must either be null or a function, not " + typeof t);
+                    e.prototype = Object.create(t && t.prototype, {
+                        constructor: {
+                            value: e,
+                            enumerable: !1,
+                            writable: !0,
+                            configurable: !0
+                        }
+                    }), t && (Object.setPrototypeOf ? Object.setPrototypeOf(e, t) : e.__proto__ = t)
+                }
+
+                function l(e, t) {
+                    var n = "data-clipboard-" + e;
+                    if (t.hasAttribute(n)) return t.getAttribute(n)
+                }
+                var s = o(t),
+                    u = o(n),
+                    f = o(i),
+                    d = function() {
+                        function e(e, t) {
+                            for (var n = 0; n < t.length; n++) {
+                                var i = t[n];
+                                i.enumerable = i.enumerable || !1, i.configurable = !0, "value" in i && (i.writable = !0), Object.defineProperty(e, i.key, i)
+                            }
+                        }
+                        return function(t, n, i) {
+                            return n && e(t.prototype, n), i && e(t, i), t
+                        }
+                    }(),
+                    h = function(e) {
+                        function t(e, n) {
+                            r(this, t);
+                            var i = a(this, (t.__proto__ || Object.getPrototypeOf(t)).call(this));
+                            return i.resolveOptions(n), i.listenClick(e), i
+                        }
+                        return c(t, e), d(t, [{
+                            key: "resolveOptions",
+                            value: function e() {
+                                var t = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : {};
+                                this.action = "function" == typeof t.action ? t.action : this.defaultAction, this.target = "function" == typeof t.target ? t.target : this.defaultTarget, this.text = "function" == typeof t.text ? t.text : this.defaultText
+                            }
+                        }, {
+                            key: "listenClick",
+                            value: function e(t) {
+                                var n = this;
+                                this.listener = (0, f.default)(t, "click", function(e) {
+                                    return n.onClick(e)
+                                })
+                            }
+                        }, {
+                            key: "onClick",
+                            value: function e(t) {
+                                var n = t.delegateTarget || t.currentTarget;
+                                this.clipboardAction && (this.clipboardAction = null), this.clipboardAction = new s.default({
+                                    action: this.action(n),
+                                    target: this.target(n),
+                                    text: this.text(n),
+                                    trigger: n,
+                                    emitter: this
+                                })
+                            }
+                        }, {
+                            key: "defaultAction",
+                            value: function e(t) {
+                                return l("action", t)
+                            }
+                        }, {
+                            key: "defaultTarget",
+                            value: function e(t) {
+                                var n = l("target", t);
+                                if (n) return document.querySelector(n)
+                            }
+                        }, {
+                            key: "defaultText",
+                            value: function e(t) {
+                                return l("text", t)
+                            }
+                        }, {
+                            key: "destroy",
+                            value: function e() {
+                                this.listener.destroy(), this.clipboardAction && (this.clipboardAction.destroy(), this.clipboardAction = null)
+                            }
+                        }]), t
+                    }(u.default);
+                e.exports = h
+            })
+        }, {
+            "./clipboard-action": 7,
+            "good-listener": 4,
+            "tiny-emitter": 6
+        }]
+    }, {}, [8])(8)
+});
+var clipboard = new Clipboard(".button-link");
+clipboard.on("success", function(o) {
+    console.log(o), document.getElementById("btnInfo").style.display = "block", document.getElementById("inputURL").value = "", document.getElementById("resultLink").value = ""
+}), clipboard.on("error", function(o) {
+    console.log(o)
+});
+var clipboard2 = new Clipboard(".button-code");
+clipboard2.on("success", function(o) {
+    console.log(o), document.getElementById("btnInfo2").style.display = "block", document.getElementById("codebox").style.display = "none"
+}), clipboard2.on("error", function(o) {
+    console.log(o)
+});
+
+function refresh() {
+    location.reload()
+};
+$(document).ready(function() {
+    $(".btn-safe").click(function() {
+        input.value.length && $("#blantersafelink,.matilampu").toggleClass("aktif")
+    })
+});
+var titlerecentpost = document.getElementById("xtitlex");
+titlerecentpost.innerHTML = '<div class="recenthd"><h2>Recent Post</h2><a class="gorecent" href="' + recentpost_url + '" title="Recent Post" target="_blank">View More</a></div>';
