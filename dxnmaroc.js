@@ -129,7 +129,7 @@
     }
     if (a_to_vh == false) {
     var encryptedUrl = Base64.encode(a_to_vi);
-    a_to_ve[i].href = "https://www.dxnmaroc.net/p/go.php?url=" + encryptedUrl;
+    a_to_ve[i].href = "https://dxnurl.blogspot.com/p/go.html?url=" + encryptedUrl;
     a_to_ve[i].rel = "nofollow";
     a_to_vb++;
     a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
